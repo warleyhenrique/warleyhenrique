@@ -1,7 +1,7 @@
 ### Olá sou Warley Henrique 👋
 
-- 🔭 Atualmente enstou Trabalhando com NodeJS e ReactJS
-- 🌱 Atualmente enstou Estudando TypeScrpit, NodeJS e ReactJS
+- 🔭 Atualmente enstou Trabalhando com NodeJS e ReactJS.
+- 🌱 Atualmente enstou Estudando TypeScrpit, NodeJS e ReactJS.
 
  <div>
   <a href="https://github.com/warleyhenrique">
