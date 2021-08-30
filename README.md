@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente enstou Trabalhando com NodeJS e ReactJS.
 - 🌱 Atualmente enstou Estudando TypeScrpit, NodeJS e ReactJS.
-- 🚀 Participando o Ignite - Rocketseat
+- 🚀 Participando do Ignite - Rocketseat
 
  <div>
   <a href="https://github.com/warleyhenrique">
